@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @hanan-almuhammed
+- 👋 Hi, I’m Hannan!
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analysing 
-- 💞️ I’m looking to collaborate on Data Analysing projects 
 - 📫 How to reach me email: hnx.alq@gmail.com 
-- 😄 Pronouns: she 
 - ⚡ Fun fact: i hate math
 
 <!---
